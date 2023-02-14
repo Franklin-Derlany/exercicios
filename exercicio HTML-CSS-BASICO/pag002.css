@@ -1,0 +1,50 @@
+body {
+    background-color: khaki;
+}
+
+.calendario-anual {
+    font-family: tahoma;
+    color: darkslategray;
+}
+
+.calendario-mensal {
+    font-family: tahoma;
+    color: darkslategray;
+}
+
+.imagens {
+    width: 7em;
+
+}
+
+.calendario-mensal-aniversarios {
+    font-family: tahoma;
+    color: darkslategray;
+    margin-bottom: 1px;
+}
+
+.imagens-aniversarios {
+    width: 7em;
+    margin-top: 1px;
+}
+
+.segundo-trimestre {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 5px;
+    margin-left: 5%;
+}
+
+.links {
+    border: solid 3px cornflowerblue;
+    width: 100%;
+    height: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    gap: 5px;
+    font-family: Tahoma;
+    font-size: 12px;
+    background-color: coral;
+    color: aliceblue;
+}
